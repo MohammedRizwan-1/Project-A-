@@ -40,11 +40,15 @@ comments: Any additional notes or comments
 
 This dataset is from a 2014 survey that measures attitudes towards mental health in the workplace by OSMI 2014.
 
+**Limitations of the data:** When it comes to comparing tech and non-tech companies, the distribution of companies used was not a fair balance between the two. Also, the survey in itself is not a fair representation of the entire tech industries and does not take into account the types of different organisations that can be calssififed as a tech company, e.g. one that operates in logistics vs social media. 
+
 **Questions and Methodolgy:**
 1. Find out if there is a correlation between companies that offer wellness programs and employees who suffer from mental health issues.
 2. Find out if there is a link between tech industires and non-tech industries who offer mental health wellness programs.
 3. Investigate if there are any demographic difference/trends in the tech space that offer wellness programs, there are more/less consequences for taking time off for mental health, and ? 
 4. Are there any gender trends to be noted within the tech industry, as we suspect women are probably more likely to suffer from mental health in this industry?
+
+
  
 **Recommendations:** Suggestions of practices/initiatives tech companies can take to better aid their employees' mental health?
  
