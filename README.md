@@ -8,35 +8,23 @@
 ## **Data Source and Reference**
 **The data contents explained**
 
-Age
+Columns: Age, Gender, Country, treatment, work_interfere, tech_company, benefits, care_options, wellness_program, seek_help, anonymity, leave, mentalvsphysical,
+        obs_consequence, comments
 
-Gender
+Questions Posed to Obtain Survey Data: 
 
-Country
-
-treatment: Have you sought treatment for a mental health condition?
-
-work_interfere: If you have a mental health condition, do you feel that it interferes with your work?
-
-tech_company: Is your employer primarily a tech company/organization?
-
-benefits: Does your employer provide mental health benefits?
-
-care_options: Do you know the options for mental health care your employer provides?
-
-wellness_program: Has your employer ever discussed mental health as part of an employee wellness program?
-
-seek_help: Does your employer provide resources to learn more about mental health issues and how to seek help?
-
-anonymity: Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?
-
-leave: How easy is it for you to take medical leave for a mental health condition?
-
-mentalvsphysical: Do you feel that your employer takes mental health as seriously as physical health?
-
-obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
-
-comments: Any additional notes or comments
+Have you sought treatment for a mental health condition?
+If you have a mental health condition, do you feel that it interferes with your work?
+Is your employer primarily a tech company/organization?
+Does your employer provide mental health benefits?
+Do you know the options for mental health care your employer provides?
+Has your employer ever discussed mental health as part of an employee wellness program?
+Does your employer provide resources to learn more about mental health issues and how to seek help?
+Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?
+How easy is it for you to take medical leave for a mental health condition?
+Do you feel that your employer takes mental health as seriously as physical health?
+Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
+Any additional notes or comments
 
 This dataset is from a 2014 survey that measures attitudes towards mental health in the workplace by OSMI 2014.
 
