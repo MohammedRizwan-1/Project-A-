@@ -41,6 +41,7 @@ comments: Any additional notes or comments
 This dataset is from a 2014 survey that measures attitudes towards mental health in the workplace by OSMI 2014.
 
 **Limitations of the data:** When it comes to comparing tech and non-tech companies, the distribution of companies used was not a fair balance between the two. Also, the survey in itself is not a fair representation of the entire tech industries and does not take into account the types of different organisations that can be calssififed as a tech company, e.g. one that operates in logistics vs social media. 
+In addition the data is biased towards a certain region of the world, which has influenced the data.
 
 **Questions and Methodolgy:**
 1. Find out if there is a correlation between companies that offer wellness programs and employees who suffer from mental health issues.
@@ -51,14 +52,15 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 
  
 **Recommendations:** Suggestions of practices/initiatives tech companies can take to better aid their employees' mental health?
- 
-## **Project Visualisation**
 
 ## **Analysis and Findings**
 
+Based on this study, the analysis for all research questions suggests that the provisions in tech industry are not adequate for mental health issues yet. The findings and insights of this research should be generalized with caution as the survey respondents may not be a fair representation of the entire population in the tech industry and workplaces.
+In addition, it shows that companies in North Americas and Europe offer better and more mental health support compared to the rest of the world.
 
-
-
+## **Acknowledgements**
+Kaggle
+UBHM Team
 
 
 Authors: Mohammed Rizwan Nawaz, Fazeleh Arjmandilari, Tharusha Heenatigala, Eliyza Shafaq
