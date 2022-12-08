@@ -50,9 +50,6 @@ In addition the data is biased towards a certain region of the world, which has 
 4. Are there any gender trends to be noted within the tech industry, as we suspect women are probably more likely to suffer from mental health in this industry?
 
 
- 
-**Recommendations:** Suggestions of practices/initiatives tech companies can take to better aid their employees' mental health?
-
 ## **Analysis and Findings**
 
 Based on this study, the analysis for all research questions suggests that the provisions in tech industry are not adequate for mental health issues yet. The findings and insights of this research should be generalized with caution as the survey respondents may not be a fair representation of the entire population in the tech industry and workplaces.
